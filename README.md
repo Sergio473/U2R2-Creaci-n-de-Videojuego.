@@ -1,20 +1,19 @@
 # U2R2-Creacion-de-Videojuego.
 
-## Capitulo 1 - Escenario 
+# Enlace a archivo package de Videojuego 
+- [Archivo package](https://github.com/Sergio473/U2R2-Creacion_de_Videojuegos/releases/Plataformas2D) 
+## Lecciones 1 a 6
+[Archivo Lecciones](https://drive.google.com/file/d/1_U-35ROzeabyEa8KaAW9m6fU30DF-qEL/view?usp=sharing](https://drive.google.com/file/d/1t7OuhfVgacPPOgQpkI0htEWY_nQs5Ajk/view?usp=sharing))
+[Archivo PDF Lecciones](https://drive.google.com/file/d/1zCoi7e20UE5Is5ZJy0z0RzwIqwmQMLTJ/view?usp=sharing)
 
-En este primer video, mi objetivo fue sentar las bases del juego. Me enfoqué en crear el entorno inicial, diseñar el escenario donde se desarrollará la acción y colocar las plataformas básicas. Aprendí cómo importar assets, organizar el Hierarchy en Unity y ajustar las propiedades de los objetos para crear un entorno visualmente atractivo.
+## Lecciones 7 a 12
+[Archivo Lecciones](https://drive.google.com/file/d/1v7ZtLBj1xPPiKQbHcc27PL7jbv8NLr-C/view?usp=drive_link)
+[Archivo PDF Lecciones](https://drive.google.com/file/d/1LWO-JkDu9IMMpOs_ktlKf3l5IBqmKnJY/view?usp=sharing)
 
-## Capítulo 2: Movimiento del Personaje
-En este capítulo, pasé al control del personaje. Configuré un controlador básico para que el personaje pudiera moverse hacia la izquierda y la derecha y saltar. Implementé scripts en C# para manejar el input del teclado y lo vinculé al Rigidbody2D del personaje para aplicar física realista en el movimiento.
+## Lecciones 13 a 18
+[Archivo Lecciones](https://drive.google.com/file/d/10RjUNMgrxRptf_PI8eKKCNx72nmV_3jn/view?usp=sharing)
+[Archivo PDF Lecciones](https://drive.google.com/file/d/1TkxWMeN8penWSeZvVeZ9Di5KI1WXRXKM/view?usp=sharing)
 
-## Capítulo 3: Colisiones y Física
-Aquí me centré en las interacciones físicas del personaje con el entorno. Agregué colliders a las plataformas y al personaje, y ajusté las físicas para asegurar que el personaje pudiera caminar por las plataformas y detenerse correctamente. También configuré el sistema de gravedad para hacer que los saltos se sintieran naturales.
-
-## Capítulo 4: Animaciones
-Este video fue sobre darle vida al personaje. Aprendí a crear un Animator Controller y a vincular animaciones para caminar, saltar y quedarse quieto. También configuré transiciones entre estas animaciones basadas en las entradas del jugador, lo que hizo que el movimiento del personaje se sintiera mucho más fluido y dinámico.
-
-## Capítulo 5: Enemigos Básicos
-En este capítulo, añadí los primeros enemigos al juego. Configuré su comportamiento para que se movieran de un lado a otro de las plataformas y aprendí a usar triggers y colisiones para que interactuaran con el personaje. Además, configuré las consecuencias de entrar en contacto con un enemigo, como perder vidas o reiniciar el nivel.
-
-## Capítulo 6: Coleccionables
-En este episodio, mi enfoque estuvo en agregar objetos coleccionables, como monedas o gemas. Creé scripts para que el personaje pudiera recogerlos y añadí un sistema de puntuación para rastrear cuántos coleccionables se habían recogido. Esto le dio al juego un objetivo adicional y una sensación de progresión.
+## Lecciones 19 a 24
+[Archivo Lecciones](https://drive.google.com/file/d/1zUkiykVjfa45fcQDZpwI2woEVBjh1RkX/view?usp=sharing)
+[Archivo PDF Lecciones](https://drive.google.com/file/d/1P6vLlwg07HI2un4tNVDiPC5PqGrM6gDi/view?usp=sharing)
