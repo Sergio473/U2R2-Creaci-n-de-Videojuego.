@@ -1,7 +1,7 @@
 # U2R2-Creacion-de-Videojuego.
 
 # Enlace a archivo package de Videojuego 
-- [Archivo package](https://github.com/Sergio473/U2R2-Creacion_de_Videojuegos/releases/Plataform2D) 
+- [Archivo package](https://github.com/Sergio473/U2R2-Creacion_de_Videojuegos./releases/Plataform2D) 
 ## Lecciones 1 a 6
 [Archivo Lecciones](https://drive.google.com/file/d/1_U-35ROzeabyEa8KaAW9m6fU30DF-qEL/view?usp=sharing](https://drive.google.com/file/d/1t7OuhfVgacPPOgQpkI0htEWY_nQs5Ajk/view?usp=sharing)) \
 [Archivo PDF Lecciones](https://drive.google.com/file/d/1zCoi7e20UE5Is5ZJy0z0RzwIqwmQMLTJ/view?usp=sharing)
